@@ -1,0 +1,2 @@
+config SHIELD_tester_pro_micro
+    def_bool $(shields_list_contains,tester_pro_micro)
